@@ -15,6 +15,7 @@ What blockers do I have:
 * I've tried doing some of this before and often get stuck in the detail, looking forward to making progress this time.
 
 **Thoughts:**
+Struggled more with setting up the federated access than I would like. 
 
-**Link to work:** [Example](http://www.example.com)d
+**Link to work:** [Repo](https://github.com/jds-walker/double)
 
