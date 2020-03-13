@@ -14,9 +14,6 @@ What I will do today:
 What blockers do I have:
 * Still slightly avoiding blockers and moving onto new areas when I need to clean everything up and have it working it might be difficult.
 
-**Thoughts:**
-
-
 **Link to work:** [Project Repo - Double](https://github.com/jds-walker/double)
 
 ### Day 1: 13 March, 2020 
@@ -32,9 +29,6 @@ What I will do today:
 
 What blockers do I have:
 * struggling with federated access.
-
-**Thoughts:**
-
 
 **Link to work:** [Project Repo - Double](https://github.com/jds-walker/double)
 
