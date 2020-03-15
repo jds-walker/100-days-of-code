@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 5: 15 March, 2020
+What I did yesterday:
+* Implemented react-router-dom
+
+What I will do today:
+* Revisit authentication using custom components
+
+
+What blockers do I have:
+* Federated access is still a bit tricky for me
+
+**Link to work:** [Project Repo - Double](https://github.com/jds-walker/double)
+
+
 ### Day 4: 15 March, 2020
 What I did yesterday:
 * Struggled a little with authentication but went back and fixed it up after my 1 hour of 100 days of code, pleased with this perserverence.
