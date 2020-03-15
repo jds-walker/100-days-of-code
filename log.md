@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 5: 15 March, 2020
+### Day 5: 16 March, 2020
 What I did yesterday:
 * Implemented react-router-dom
 
