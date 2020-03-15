@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 2: 14 March, 2020 
+### Day 4: 15 March, 2020
+What I did yesterday:
+* Struggled a little with authentication but went back and fixed it up after my 1 hour of 100 days of code, pleased with this perserverence.
+
+What I will do today:
+* Will look at react-router and see about adding some routing to the website.
+
+
+What blockers do I have:
+* None currently, federated access isn't working at this stage but will get back to it at some point.
+
+**Link to work:** [Project Repo - Double](https://github.com/jds-walker/double)
+
+
+
+### Day 3: 14 March, 2020 
 
 **Agile Update:** 
 
@@ -16,7 +31,7 @@ What blockers do I have:
 
 **Link to work:** [Project Repo - Double](https://github.com/jds-walker/double)
 
-### Day 1: 13 March, 2020 
+### Day 2: 13 March, 2020 
 
 **Agile Update:** 
 
@@ -33,7 +48,7 @@ What blockers do I have:
 **Link to work:** [Project Repo - Double](https://github.com/jds-walker/double)
 
 
-### Day 0: 12 March, 2020 
+### Day 1: 12 March, 2020 
 
 **Agile Update:** 
 
