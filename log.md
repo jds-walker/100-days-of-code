@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: 18 March, 2020
+What I did yesterday:
+* Took yesterday off as it was my birthday yay :)!!
+
+What I will do today:
+* review current status probably need to work on using hooks for state a bit more.
+
+What blockers do I have:
+* Federated access is still a bit tricky for me
+
 ### Day 5: 16 March, 2020
 What I did yesterday:
 * Implemented react-router-dom
