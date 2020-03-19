@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: 19 March, 2020
+What I did yesterday:
+* Managed to squeeze an hour in right on midnight so I have only skipped my birthday. It has messed with my routine of 6:15 am coding which I will fix tomorrow. Managed to work through the issues I was having with coding up a form in react using setState()
+
+What I will do today:
+* Finally work through custom authentication with AWS Amplify in react app. 
+
+What blockers do I have:
+* None!!! Just need to hit my routine. 
+
 ### Day 6: 18 March, 2020
 What I did yesterday:
 * Took yesterday off as it was my birthday yay :)!!
