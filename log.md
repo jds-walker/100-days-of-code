@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: 20 March, 2020
+What I did yesterday:
+* Got my headout useState() with form components which was very cool and now I get it, so easy. Just took some effort. It still looks a little circular to me but happy to live with that. 
+
+What I will do today:
+* Finish more of the Auth pages and steps. 
+
+What blockers do I have:
+* None!!! Just need to hit my routine. Today I did get up and watch some useful videos on my project but didn't actually work on it when I should have will do that tonight still. 
+
+
 ### Day 7: 19 March, 2020
 What I did yesterday:
 * Managed to squeeze an hour in right on midnight so I have only skipped my birthday. It has messed with my routine of 6:15 am coding which I will fix tomorrow. Managed to work through the issues I was having with coding up a form in react using setState()
